@@ -17,4 +17,4 @@ $("#ComponentGroupItem_45_1066_2").css("color", "magenta");
 //$("#ComponentGroupItem_47_1230_2").css("color", "magenta");
 
 //Thai pumpkin soup
-$("#ComponentGroupItem_48_1641_2").css("color", "magenta");
+//$("#ComponentGroupItem_48_1641_2").css("color", "magenta");
