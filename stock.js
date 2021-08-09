@@ -20,7 +20,7 @@ $("#ComponentGroupItem_35_1288_2").css("color", "magenta");
 $("#ComponentGroupItem_47_1210_2").css("color", "magenta");
 
 //low lac vanil yoghurt
-$("#ComponentGroupItem_45_1333_2").css("color", "magenta");
+//$("#ComponentGroupItem_45_1333_2").css("color", "magenta");
 
 //spinnich
 $("#ComponentGroupItem_31_950_2").css("color", "magenta");
